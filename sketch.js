@@ -30,7 +30,7 @@ function draw() {
         x = width-dvdSize;
 	}else if(x<=0){
 		xspeed = -xspeed;
-        x = 0;
+		x = 0;
 	}
 	if (y >= height-dvdSize ) {
 		yspeed = -yspeed;
