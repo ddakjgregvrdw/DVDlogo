@@ -14,8 +14,8 @@ function setup() {
     canvas = createCanvas(window.innerWidth, window.innerHeight);
     y = 100;
     x = 100;
-    xspeed = 10;
-	yspeed = 10;
+    xspeed = 5;
+	yspeed = 5;
 }
 
 function draw() {
