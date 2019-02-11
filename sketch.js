@@ -49,4 +49,4 @@ window.onresize = function() {
   height = h;
 
   dvdSize=innerWidth/6;
-};
+}
