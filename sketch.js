@@ -4,7 +4,7 @@ let xspeed;
 let yspeed;
 let dvd;
 let dvdSize=innerWidth/6;
-let canvas
+let canvas;
 
 function preload() {
     dvd = loadImage("dvd.png");
